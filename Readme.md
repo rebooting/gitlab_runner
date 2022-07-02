@@ -8,3 +8,6 @@
 4. ```export GL_TOKEN=<token>```
 
 5.  run register_runner.sh
+
+
+** source from : https://testdriven.io/blog/gitlab-ci-docker/
