@@ -2,7 +2,7 @@ Setup for self hosted Gitlab runner.
 
 
 
-1. docker-compose up -d
+1. make start
 
 2. register for self hosted runner in Gitlab Project
 
